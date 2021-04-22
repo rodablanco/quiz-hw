@@ -1,0 +1,13 @@
+nav{
+    display:flex;
+    flex-direction: column;
+
+}
+
+section{
+    display: flex;
+}
+#quiz {
+    justify-content: center;
+    border: solid 4px turquoise;
+}
